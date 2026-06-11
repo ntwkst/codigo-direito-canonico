@@ -1,0 +1,140 @@
+{
+  "titulo": "Código de Direito Canônico",
+  "edicao": "Promulgado em 1983 · 1752 cânones",
+  "livros": [
+    {
+      "numero": 1,
+      "titulo": "Normas Gerais",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Das Leis Eclesiásticas",
+          "canones": [
+            {"numero": 7, "texto": "As leis que estabelecem uma pena, restringem o livre exercício dos direitos, ou contêm uma excepção à lei, devem ser interpretadas estritamente."},
+            {"numero": 8, "texto": "As leis sucessivas que dizem respeito à mesma matéria revogam as leis anteriores. As leis particulares não revogam as leis universais, a não ser que o determinem expressamente."},
+            {"numero": 9, "texto": "Se uma parte da lei estiver revogada, isto não faz revogar as outras partes, a não ser que estas dependam intrinsecamente daquela."}
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Dos Costumes",
+          "canones": [
+            {"numero": 25, "texto": "Um costume praticado pelo povo tem força de lei, se foi observado, com intenção de obrigar como lei, durante o tempo prescrito pela lei, isto é, trinta anos contínuos e completos."},
+            {"numero": 26, "texto": "Um costume contrário à lei canônica vigente, ou praetercanonicum, não pode obter força de lei, a não ser que tenha sido praticado por imemorial, ou ao menos durante cem anos contínuos e completos."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "O Povo de Deus",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Da Igreja",
+          "canones": [
+            {"numero": 204, "texto": "Os fiéis são aqueles que, incorporados em Cristo pelo batismo, são constituídos povo de Deus; e assim, participantes à sua maneira do múnus sacerdotal, profético e real de Cristo, são chamados, de acordo com a condição de cada um, a exercer a missão que Deus confiou à Igreja."},
+            {"numero": 205, "texto": "A Igreja encarnada e visível é constituída pelos fiéis; e todos nós unidos na confissão de uma mesma fé católica, sob a unidade de um só e mesmo Pontífice Romano e Bispo de Roma, constituímos a Igreja particular."}
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Dos Clérigos",
+          "canones": [
+            {"numero": 273, "texto": "Os clérigos estão obrigados a observar continência perfeita e perpétua por causa do reino dos céus, e portanto mantêm-se solteiros. Assim se glorificam a si próprios e servem a Deus e aos homens de maneira mais livre e dedicada na Igreja."},
+            {"numero": 274, "texto": "Só homens batizados pode ser proferidas as ordens sagradas."},
+            {"numero": 275, "texto": "Os clérigos estão obrigados pelo dever da obediência, em conformidade com o direito, em relação ao Papa, seu ordinário e os superiores."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "A Função de Ensinar da Igreja",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Do Magistério Eclesiástico",
+          "canones": [
+            {"numero": 752, "texto": "Deve-se prestar obediência religiosa de inteligência e vontade aos ensinamentos que o Sumo Pontífice ou o Colégio dos Bispos enunciam, quando exercem o seu magistério autêntico, ainda que não pretendam defini-los por ato definitivo."},
+            {"numero": 753, "texto": "Os fiéis devem aderir com religiosidade cristã à doutrina que o Bispo da diocese, quando exerce seu magistério legítimo, propõe, em razão de sua condição como vigário de Cristo naquele território."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "A Função Santificadora da Igreja",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Dos Sacramentos",
+          "canones": [
+            {"numero": 840, "texto": "Os sacramentos da Igreja são sete: batismo, confirmação, Eucaristia, penitência, unção dos enfermos, ordem sagrada e matrimônio."},
+            {"numero": 841, "texto": "Os sacramentos do batismo, confirmação e ordem sagrada não podem ser reiterados, pois imprimem caráter."},
+            {"numero": 842, "texto": "Compete ao Bispo e ao povo congregado em torno dele cuidar que se mantenha bem viva a memória das maravilhas que Deus operou e que a todo o tempo se celebre e proclame."}
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Do Batismo",
+          "canones": [
+            {"numero": 849, "texto": "O batismo é necessário por direito divino a todos para a salvação."},
+            {"numero": 850, "texto": "O batismo regular é conferido nos ritos latino, oriental e outros ritos aprovados pela Igreja; cada um deles pode validamente confer o batismo; porém, ele há de ser conferido de acordo com as rúbricas da Igreja."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Dos Bens Temporais da Igreja",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Dos Bens Temporais",
+          "canones": [
+            {"numero": 1254, "texto": "A Igreja tem a capacidade nativa de adquirir, possuir, administrar e alienar os bens temporais conforme as normas do direito canônico e do direito civil."},
+            {"numero": 1255, "texto": "Aqueles que recebem um bem imóvel pela Igreja devem apresentar recibos ou documentação comprobatória; ninguém o pode alienar sem permissão do ordinário."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "As Sanções na Igreja",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Das Penas em Geral",
+          "canones": [
+            {"numero": 1311, "texto": "A Igreja tem o poder nativo e independente de direito divino de coagir os membros da Igreja com sanções penais."},
+            {"numero": 1312, "texto": "As penas eclesiásticas são de dois tipos: medicinais, chamadas censuras, e expiatórias."},
+            {"numero": 1313, "texto": "As censuras são penas eclesiásticas que visam a conversão de um delinquente por meio da privação de certos bens espirituais, até que se arrependa."}
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Processos",
+      "titulos": [
+        {
+          "numero": 1,
+          "titulo": "Do Processo Contencioso",
+          "canones": [
+            {"numero": 1501, "texto": "É competente para conhecer de causas entre pessoas físicas ou jurídicas, o Bispo na sua diocese, onde é promovida a ação, exceto quando as leis particulares determinam de outra forma."},
+            {"numero": 1502, "texto": "A competência é determinada pela pessoa do demandado ou pela matéria da lide ou pelo local, de acordo com as prescrições do direito."}
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Do Processo Penal",
+          "canones": [
+            {"numero": 1717, "texto": "Se o Ordinário conhece de qualquer forma que pode ter sido cometido um delito, deve diligentemente investigar, pessoalmente ou por meio de pessoa idoneia, os fatos e as circunstâncias bem como a imputabilidade, a não ser que tal investigação seja claramente desnecessária."},
+            {"numero": 1718, "texto": "Procure-se promover a reconciliação e a reparação pela caridade, antes de dar início ao processo."}
+          ]
+        }
+      ]
+    }
+  ]
+}
